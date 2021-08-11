@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, after-effects, cinematography, photography, travelling, special-effects and Kolkata**
 
-- 📫 How to reach me **https://ritam-kabiraj-portfolio.netlify.app**
+- 📫 How to reach me [Click here](https://ritam-kabiraj-portfolio.netlify.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
