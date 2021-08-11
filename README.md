@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/THE-CORE-BUG](https://github.com/THE-CORE-BUG)
 
-- 💬 Ask me about **react, after-effects**
+- 💬 Ask me about **react, after-effects, cinematography, photography, travelling, special-effects and Kolkata**
 
 - 📫 How to reach me **https://ritam-kabiraj-portfolio.netlify.app**
 
