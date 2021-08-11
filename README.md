@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN, Main-Frame, Dev-Ops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/THE-CORE-BUG](https://github.com/THE-CORE-BUG)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/THE-CORE-BUG)
 
 - 💬 Ask me about **react, after-effects, cinematography, photography, travelling, special-effects and Kolkata**
 
